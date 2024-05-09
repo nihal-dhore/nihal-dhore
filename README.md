@@ -49,6 +49,6 @@ I'm a passionate software developer proficient in a variety of technologies. Her
 
 ## Get in Touch
 
-🐦 Feel free to reach out to me on [Twitter]([Your Twitter Profile Link](https://twitter.com/Nihal_Dhore))!
+🐦 Feel free to reach out to me on ([Twitter](https://twitter.com/Nihal_Dhore))!
 
 ---
