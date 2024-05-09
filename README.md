@@ -31,7 +31,6 @@ I'm a passionate software developer proficient in a variety of technologies. Her
 
 ### Additional Skills:
 ![REST API](https://img.shields.io/badge/-REST%20API-000?style=for-the-badge&logo=api&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql&logoColor=4479A1)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-000?style=for-the-badge&logo=prisma&logoColor=336791)
 ![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge)
 ![Hono](https://img.shields.io/badge/-Hono-000?style=for-the-badge)
