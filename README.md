@@ -45,7 +45,7 @@ I'm a passionate software developer proficient in a variety of technologies. Her
 
 - 🚀 Project 1: [ECHOVERSE](https://e-c-h-o-v-e-r-s-e.vercel.app/blogs)
 - 🌟 Project 2: [WisePay](https://github.com/nihal-dhore/WisePay)
-- 💼 Project 3: [Twitch-clone](https://github.com/nihal-dhore/twitch-clone)
+- 💼 Project 3: [Twitch-clone](https://gamehub-nihal.vercel.app)
 
 ## Get in Touch
 
