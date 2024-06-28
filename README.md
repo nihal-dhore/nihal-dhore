@@ -41,6 +41,10 @@ I'm a passionate software developer proficient in a variety of technologies. Her
 ![Turborepo](https://img.shields.io/badge/-Turborepo-000?style=for-the-badge)
 
 
+## Portfolio
+
+Check out my [portfolio](https://nihal-dhore-portfolio.vercel.app/).
+
 ## Projects
 
 - 🚀 Project 1: [ECHOVERSE](https://e-c-h-o-v-e-r-s-e.vercel.app/blogs)
