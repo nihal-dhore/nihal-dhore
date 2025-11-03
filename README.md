@@ -1,59 +1,72 @@
+<div align="center">
 
----
+# Nihal Dhore
 
-# Hi there, I'm Nihal Manoj Dhore 👋
+**Full Stack Software Engineer**
 
-I'm a passionate software developer proficient in a variety of technologies. Here's a glimpse of what I bring to the table:
+Building scalable systems • Kafka data pipelines • RAG-powered AI applications
 
-## Skills
+[Portfolio](https://nihaldhore.dev) • [LinkedIn](https://www.linkedin.com/in/nihal-dhore) • [Email](mailto:nihaldhore9@gmail.com)
 
-### Programming Languages:
+</div>
+
+<br>
+
+## What I Do
+
+Full-stack engineer crafting elegant solutions with **Node.js**, **TypeScript**, **React**, and **Next.js**.
+
+Currently building enterprise Kafka platforms and intelligent AI systems at **Intverse IT Solutions**.
+
+<br>
+
+## Impact
+
+**99.5%** uptime • **sub-200ms** response times • **50+** developers enabled
+
+Reduced deployment time from **hours to 10 minutes** • **90%** fewer support tickets
+
+<br>
+
+## Tech
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=007396)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Frontend Tools:
-![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Recoil](https://img.shields.io/badge/-Recoil-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
-### Backend Tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 
-### Additional Skills:
-![REST API](https://img.shields.io/badge/-REST%20API-000?style=for-the-badge&logo=api&logoColor=61DAFB)
-![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-000?style=for-the-badge&logo=prisma&logoColor=336791)
-![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge)
-![Hono](https://img.shields.io/badge/-Hono-000?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-000?style=for-the-badge&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
-![Turborepo](https://img.shields.io/badge/-Turborepo-000?style=for-the-badge)
+<br>
 
+## Featured Work
 
-## Portfolio
+**[Gamehub](https://gamehub-nihal.vercel.app)** — Live streaming platform with real-time video and chat
 
-Check out my [portfolio](https://nihal-dhore-portfolio.vercel.app/).
+**[WisePay](https://github.com/nihal-dhore/WisePay)** — Digital payment app with secure transactions
 
-## Projects
+**[Echoverse](https://e-c-h-o-v-e-r-s-e.vercel.app/blogs)** — Serverless blog on Cloudflare Workers
 
-- 🚀 Project 1: [ECHOVERSE](https://e-c-h-o-v-e-r-s-e.vercel.app/blogs)
-- 🌟 Project 2: [WisePay](https://github.com/nihal-dhore/WisePay)
-- 💼 Project 3: [Twitch-clone](https://gamehub-nihal.vercel.app)
+<br>
 
-## Get in Touch
+## Currently
 
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nihal_Dhore)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-dhore)
+Building enterprise Kafka Connect module • Implementing RAG chatbots • Exploring vector databases
 
----
+<br>
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nihal_Dhore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-dhore)
+
+**[nihaldhore.dev](https://nihaldhore.dev)**
+
+</div>
